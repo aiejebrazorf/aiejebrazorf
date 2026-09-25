@@ -123,18 +123,6 @@ Repeat.
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aiejebrazorf&show_icons=true&hide_border=true&rank_icon=github" alt="Vittorio's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aiejebrazorf&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
 ## 💬 One last thing
 
 > **Build something. Break something. Learn something.**
