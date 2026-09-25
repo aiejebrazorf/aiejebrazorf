@@ -1,14 +1,12 @@
-# Hey, I'm Vittorio 👋
+# Hi, I'm Vittorio 👋
 
-### Full Stack Developer · Builder · Curious by nature
+### Full Stack Developer · Software Engineer · Builder
 
-I'm a Full Stack Developer from Italy who enjoys **building things, solving problems, and understanding how software works under the hood**.
+I'm a Full Stack Developer based in Italy, focused on building reliable software, solving complex problems, and continuously improving how things are designed and developed.
 
-I like taking an idea, turning it into something real, and learning along the way.
+I enjoy working across the stack, from backend systems and APIs to infrastructure, automation, and developer tooling. I'm particularly interested in understanding how systems work under the hood and turning ideas into practical, maintainable solutions.
 
-> **What if I tried to build this myself?**
-
-That's probably the question behind most of the things I build.
+> **Build with purpose. Understand how it works. Keep improving.**
 
 ---
 
@@ -18,87 +16,95 @@ That's probably the question behind most of the things I build.
 {
   "name": "Vittorio Aiello",
   "role": "Full Stack Developer",
-  "based_in": "Italy",
-  "mindset": "Curious · Practical · Always learning",
-  "currently": [
-    "Building",
-    "Learning",
-    "Experimenting"
-  ]
+  "location": "Italy",
+  "focus": [
+    "Software Development",
+    "Backend Systems",
+    "Automation",
+    "Infrastructure",
+    "AI-assisted Development"
+  ],
+  "mindset": "Curious · Practical · Continuous Learning"
 }
 ```
 
-I enjoy working across the stack, but what really drives me is **curiosity**.
+My approach to software development is driven by **curiosity, pragmatism, and continuous learning**.
 
-I like understanding existing systems, figuring out why things work the way they do, and finding better ways to build them.
+I enjoy understanding existing systems, identifying problems, and designing solutions that are simple, reliable, and maintainable.
 
-Sometimes that means writing code.
-
-Sometimes it means automating something.
-
-Sometimes it means taking something apart just to see what's inside.
+Whether I'm building a new application, modernizing a legacy system, automating a repetitive workflow, or experimenting with a new technology, I like going beyond the surface and understanding **why things work the way they do**.
 
 ---
 
-## ❤️ Things I Like
+## 🛠️ What I Work On
 
-|      🐧 Linux     |         🐳 Docker         |        ⚙️ Automation        |
-| :---------------: | :-----------------------: | :-------------------------: |
-| Exploring systems | Reproducible environments | Eliminating repetitive work |
+My interests and experience span multiple areas of software engineering:
 
-| 🌱 Open Source |      🏠 Self-hosting      |        🤖 AI        |
-| :------------: | :-----------------------: | :-----------------: |
-|  Learn & share | Build & run things myself | New ways to develop |
+* 🌐 **Web Applications & Backend Systems**
+* 🔌 **APIs, Integrations & Distributed Services**
+* ⚙️ **Automation & Developer Tooling**
+* 🐳 **Docker & Containerized Environments**
+* 🐧 **Linux & Infrastructure**
+* 🔄 **Legacy System Modernization**
+* 🌱 **Open Source & Self-Hosted Software**
+* 🤖 **AI-Assisted Software Development**
 
-And, above all:
-
-**🔍 Curiosity**
-
-I like learning by doing, experimenting with ideas, and building things that are actually useful.
-
----
-
-## 🛠️ What I Do
-
-I build and work on:
-
-* Web applications and backend systems
-* APIs and integrations
-* Automation and developer tools
-* Containerized environments
-* Legacy systems and their modernization
-* Open-source and self-hosted projects
-
-I'm particularly interested in the space where **software, infrastructure and automation meet**.
+I'm particularly interested in the intersection between **software engineering, infrastructure, and automation**.
 
 ---
 
-## 🤖 AI & Development
+## ❤️ Technologies & Interests
 
-AI has become another tool in my development toolbox.
+|         🐧 Linux         |         🐳 Docker         |        ⚙️ Automation        |
+| :----------------------: | :-----------------------: | :-------------------------: |
+| Systems & Infrastructure | Reproducible Environments | Eliminating Repetitive Work |
 
-I enjoy exploring how AI can help with things like:
+|   🌱 Open Source   | 🏠 Self-Hosting |        🤖 AI        |
+| :----------------: | :-------------: | :-----------------: |
+| Learn & Contribute | Build & Control | Explore & Integrate |
 
-**thinking → building → debugging → refactoring → testing**
-
-But the goal isn't to let AI write everything.
-
-The interesting part for me is figuring out **how humans and AI can work together to build better software**.
+These are more than just technologies I use — they're areas I enjoy exploring through **hands-on projects and experimentation**.
 
 ---
 
-## 🧠 My Approach
+## 🤖 AI & Software Development
 
-I don't believe you need to know everything.
+AI is becoming an increasingly important part of my development workflow.
 
-I believe you need to be **curious enough to find out**.
+I'm interested in using AI throughout the software lifecycle:
 
-I learn by:
+```text
+Planning
+   ↓
+Design
+   ↓
+Implementation
+   ↓
+Debugging
+   ↓
+Refactoring
+   ↓
+Testing
+```
+
+The goal isn't simply to generate code faster.
+
+I'm more interested in understanding **how developers and AI can collaborate effectively** to improve problem-solving, development workflows, and software quality.
+
+---
+
+## 🧠 How I Learn
+
+I believe that software engineering is a continuous learning process.
+
+I learn primarily by **building, experimenting, and understanding**:
 
 ```text
 Question
    ↓
-Explore
+Research
+   ↓
+Experiment
    ↓
 Build
    ↓
@@ -109,28 +115,27 @@ Understand
 Improve
 ```
 
-Repeat.
+I don't expect to know everything.
+
+What matters is being able to **ask the right questions, investigate effectively, and turn what I learn into something useful**.
 
 ---
 
-## 📌 Currently
+## 📌 Current Focus
 
-🔨 Building things
-🧪 Experimenting with ideas
-📚 Learning something new
-🤖 Exploring AI-assisted development
-🌱 Contributing to open source
-
----
-
-## 💬 One last thing
-
-> **Build something. Break something. Learn something.**
-
-That's usually how the interesting stuff starts.
+* 🔨 Building and improving software projects
+* 🧪 Experimenting with new technologies and ideas
+* 📚 Deepening my understanding of software engineering
+* 🤖 Exploring AI-assisted development workflows
+* 🐳 Working with containers, automation, and infrastructure
+* 🌱 Learning from and contributing to open source
 
 ---
 
-<p align="center">
-  Thanks for stopping by. ⭐
-</p>
+## 🚀 Philosophy
+
+> **Build something. Understand it. Break it. Improve it.**
+
+I'm interested in software not only as a tool for solving problems, but also as a way to continuously learn and explore.
+
+Thanks for stopping by. ⭐
