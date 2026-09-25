@@ -1,40 +1,148 @@
 # Hey, I'm Vittorio 👋
 
-I'm a **Full Stack Developer** from Italy who enjoys building things, solving problems, and figuring out how software works under the hood.
+### Full Stack Developer · Builder · Curious by nature
 
-I spend most of my time writing code, experimenting with new ideas, improving existing systems, and turning small ideas into something useful.
+I'm a Full Stack Developer from Italy who enjoys **building things, solving problems, and understanding how software works under the hood**.
+
+I like taking an idea, turning it into something real, and learning along the way.
 
 > **What if I tried to build this myself?**
 
-That's probably the question behind most of the things I work on.
-
-## Things I like
-
-* 🌱 **Open source** — learning from what others build and sharing what I can
-* 🏠 **Self-hosting** — running, configuring and understanding the software I use
-* 🐧 **Linux** — exploring the system and the tools around it
-* ⚙️ **Automation** — making repetitive things disappear
-* 🐳 **Docker** — building isolated, reproducible environments
-* 🤖 **AI** — exploring how it can become a useful part of the development process
-* 🔍 **Curiosity** — taking things apart just to understand how they work
-* 🛠️ **Building** — because sometimes the best way to learn is to make something yourself
-
-## How I like to work
-
-I like understanding **how things work**, not just how to use them.
-
-I'm naturally curious, I enjoy experimenting, and I usually learn something new by taking an idea and actually building it.
-
-Sometimes that means starting with a simple question, trying something that may or may not work, breaking it, figuring out why, and trying again.
-
-That's where I tend to learn the most.
-
-## Currently
-
-**Building · Learning · Experimenting · Breaking things · Fixing them**
-
-Always curious about what's next. 🚀
+That's probably the question behind most of the things I build.
 
 ---
 
-Thanks for stopping by. ⭐
+## 👨‍💻 About Me
+
+```text
+{
+  "name": "Vittorio Aiello",
+  "role": "Full Stack Developer",
+  "based_in": "Italy",
+  "mindset": "Curious · Practical · Always learning",
+  "currently": [
+    "Building",
+    "Learning",
+    "Experimenting"
+  ]
+}
+```
+
+I enjoy working across the stack, but what really drives me is **curiosity**.
+
+I like understanding existing systems, figuring out why things work the way they do, and finding better ways to build them.
+
+Sometimes that means writing code.
+
+Sometimes it means automating something.
+
+Sometimes it means taking something apart just to see what's inside.
+
+---
+
+## ❤️ Things I Like
+
+|      🐧 Linux     |         🐳 Docker         |        ⚙️ Automation        |
+| :---------------: | :-----------------------: | :-------------------------: |
+| Exploring systems | Reproducible environments | Eliminating repetitive work |
+
+| 🌱 Open Source |      🏠 Self-hosting      |        🤖 AI        |
+| :------------: | :-----------------------: | :-----------------: |
+|  Learn & share | Build & run things myself | New ways to develop |
+
+And, above all:
+
+**🔍 Curiosity**
+
+I like learning by doing, experimenting with ideas, and building things that are actually useful.
+
+---
+
+## 🛠️ What I Do
+
+I build and work on:
+
+* Web applications and backend systems
+* APIs and integrations
+* Automation and developer tools
+* Containerized environments
+* Legacy systems and their modernization
+* Open-source and self-hosted projects
+
+I'm particularly interested in the space where **software, infrastructure and automation meet**.
+
+---
+
+## 🤖 AI & Development
+
+AI has become another tool in my development toolbox.
+
+I enjoy exploring how AI can help with things like:
+
+**thinking → building → debugging → refactoring → testing**
+
+But the goal isn't to let AI write everything.
+
+The interesting part for me is figuring out **how humans and AI can work together to build better software**.
+
+---
+
+## 🧠 My Approach
+
+I don't believe you need to know everything.
+
+I believe you need to be **curious enough to find out**.
+
+I learn by:
+
+```text
+Question
+   ↓
+Explore
+   ↓
+Build
+   ↓
+Break
+   ↓
+Understand
+   ↓
+Improve
+```
+
+Repeat.
+
+---
+
+## 📌 Currently
+
+🔨 Building things
+🧪 Experimenting with ideas
+📚 Learning something new
+🤖 Exploring AI-assisted development
+🌱 Contributing to open source
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aiejebrazorf&show_icons=true&hide_border=true&rank_icon=github" alt="Vittorio's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aiejebrazorf&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+## 💬 One last thing
+
+> **Build something. Break something. Learn something.**
+
+That's usually how the interesting stuff starts.
+
+---
+
+<p align="center">
+  Thanks for stopping by. ⭐
+</p>
